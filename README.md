@@ -20,7 +20,10 @@ Css Animation nos copos.
 
 TELA 2 - isabela
 Necessárias:
+cards com infos sobre saude do usuario que mudam de acordo com a qtd de copos bebidos
+
 Possíveis:
+
 
 
 
