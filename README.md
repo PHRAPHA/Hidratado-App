@@ -50,13 +50,33 @@ function Status-user{
   
 
 TELA 2 - isabela
+
 Necessárias:
+
+design
+infos em cards material design;
+barra de progresso hidratação;
+rostinhos triste/regular/satisfeito/feliz
+
+programação
+frase que muda com o total de copos bebidos pelo usuario (voce bebeu x copos);
+informação dos cards muda de acordo com o total de copos do usuario.
+
 Possíveis:
 
 
 
 TELA 3 - João Pedro
+
 Necessárias:
+Ícones das conquistas;
+Descrições das conquistas;
+Mecanismo de contagem de copos bebidos pelo usuário;
+Ícones de quantidade de água bebida (copo, balde, piscina, etc).
+
+Possíveis:
+Uso do cache para armazenamento de dados;
+Uso de Javascript para determinar qual sera o icone e frase apresentado para o usuario;
 Possíveis:
 
 
