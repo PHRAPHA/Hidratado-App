@@ -30,4 +30,10 @@ Possíveis:
 
 TELA 3 - João Pedro
 Necessárias:
+>Ícones das conquistas;
+>Descrições das conquistas;
+>Mecanismo de contagem de copos bebidos pelo usuário;
+>Ícones de quantidade de água bebida (copo, balde, piscina, etc).
 Possíveis:
+>Uso do cache para armazenamento de dados;
+>Uso de Javascript para determinar qual sera o icone e frase apresentado para o usuario;
